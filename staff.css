@@ -1,0 +1,14 @@
+body
+h1 {
+    color: rgb(145, 75, 11);
+}
+h2 {
+    font-size: 180%;
+}
+p {
+    font-size: 110%;
+    color: black;
+}
+a {
+    font-size: 120%;
+}
